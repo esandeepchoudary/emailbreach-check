@@ -76,6 +76,10 @@ Invalid email addresses will be automatically skipped.
 - Uses the LeakCheck.io public API (no authentication required)
 - Email validation is performed using regex pattern matching
 
+## Acknowledgments
+
+This tool uses the [LeakCheck.io](https://leakcheck.io/) public API. Special thanks to LeakCheck for providing free access to their breach database, making it possible to check email security easily and efficiently.
+
 ## Example Output
 
 ```
