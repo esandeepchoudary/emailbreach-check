@@ -15,6 +15,7 @@ A Python script that checks email addresses against the LeakCheck.io public API 
 
 - Python 3.x
 - [uv](https://github.com/astral-sh/uv) (recommended) or pip
+- Create a virtual enironment if your base python does not include the required packages
 - Required packages:
   ```bash
   uv pip install requests termcolor
